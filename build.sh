@@ -10,6 +10,7 @@ if [ -e $jjMux/.git ]; then
 else
     echo "\n> clone repo\n"
     git clone https://github.com/jnardiello/jjMux.git $jjMux
+fi
 
 echo "\n> set up symlink\n"
 ln -sf $jjMux/tmux.conf $HOME/.tmux.conf
