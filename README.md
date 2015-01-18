@@ -17,3 +17,8 @@ To install from terminal
 2. `<C-space>, \` - Vertical split
 
 3. `<C-space>, -` - Horizontal split
+
+
+## Credits
+
+The tmux script was actually grabbed from [silvadanilo](https://github.com/silvadanilo). He's an awesome hacker, you should check his profile out.
